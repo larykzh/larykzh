@@ -1,16 +1,13 @@
-## Hi there 👋
+### boas vindas ao meu perfil🖤
 
-<!--
-**larykzh/larykzh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome é larissa souza
 
-Here are some ideas to get you started:
+- estou no alura
+- estou me desenvolvendo na linguagem do javaScript
+- uso esse espaço para o compartilhamento dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### meus contatos📧
+
+00001115277595sp@al.educacao.sp.gov.br
+
+_ larykzh _ ( insta )
